@@ -1,1 +1,3 @@
-hellow wrold
+function app(){
+    console.log('hellow')
+}
